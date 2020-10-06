@@ -13,7 +13,7 @@
     A small, single Java library for working with serial ports across various systems
     based on the work from scream3r/java-simple-serial-connector.
   </description>
-  <url>https://github.com/java-native/jssc</url>
+  <url>https://github.com/agricolaalvorada/sapjco</url>
 
   <licenses>
     <license>
@@ -31,9 +31,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/java-native/jssc.git</connection>
-    <developerConnection>scm:git:git@github.com:java-native/jssc.git</developerConnection>
-    <url>https://github.com/java-native/jssc</url>
+    <connection>scm:git:https://github.com/agricolaalvorada/sapjco</connection>
+    <developerConnection>scm:git:git@github.com:agricolaalvorada/sapjco.git</developerConnection>
+    <url>https://github.com/agricolaalvorada/sapjco</url>
   </scm>
 
   <properties>
